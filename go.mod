@@ -1,4 +1,4 @@
-module benizi.com/gitfusefs
+module github.com/benizi/gitfusefs
 
 go 1.20
 
